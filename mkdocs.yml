@@ -1,29 +1,32 @@
 site_name: "The Birds, the Bees, and the Awkward Conversations"
-
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-    - toc.integrate 
+    - toc.integrate
   nav:
     - Home: index.md
     - General Tips: general-tips.md
     - Guides:
-        - Early Childhood (Ages 0-5): guides/early-childhood.md
-        - Early School Age (Ages 6-8): guides/early-school-age.md
-        - Preteens (Ages 9-12): guides/preteens.md
-        - Teenagers (Ages 13-17): guides/teenagers.md
-      
-extensions:
-  - emoji
+        - "Early Childhood (Ages 0-5)": guides/early-childhood.md
+        - "Early School Age (Ages 6-8)": guides/early-school-age.md
+        - "Preteens (Ages 9-12)": guides/preteens.md
+        - "Teenagers (Ages 13-17)": guides/teenagers.md
+  extensions:
+    - emoji
+  extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
   - codehilite
   - toc:
-      permalink: true
+      permalink: True
 
 extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/davidlcassidy/birdsbees
   generator: false
