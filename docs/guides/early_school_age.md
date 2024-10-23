@@ -1,8 +1,8 @@
 ---
-title: "Early School Age: Ages 6-8"
+title: Early School Age: Ages 6-8
 ---
 
-## **Early School Age (Ages 6-8)**
+# **Early School Age (Ages 6-8)**
 
 ### **Conversation 1: “Understanding Conception and Birth”**
 - **Conception and Birth**: Offer more detailed explanations about reproduction.

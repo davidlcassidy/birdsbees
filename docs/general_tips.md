@@ -1,10 +1,11 @@
 ---
+title: General Tips
 hide:
   - navigation
   - toc
 ---
 
-## **General Tips for All Conversations**
+# **General Tips for All Conversations**
 
 - **Be Approachable**: Ensure that your child feels comfortable discussing sensitive topics. Maintain a friendly demeanor and let them know that it’s a judgment-free zone where they can always to come to you with any questions or concerns and can express themselves openly. Let them know that you’re always there to listen.
 
