@@ -6,11 +6,11 @@ hide:
 
 
 # The Birds, the Bees, and the Awkward Conversations
-<h2>A Free Parent's Survival Guide to Navigating Sex Talks</h2>
+## **A Free Parent's Survival Guide to Navigating Sex Talks**
 
 ---
 
-## **Introduction**
+## Introduction
 
 As parents, we know that having “the talk” with our kids can feel daunting, awkward, and maybe even overwhelming. But these conversations are an essential part of raising healthy, informed children. In today’s world, where kids are exposed to information from various sources—including peers, social media, and entertainment—it's more important than ever that parents and caregivers provide accurate, thoughtful, and age-appropriate guidance about bodies, relationships, and sexuality.
 
@@ -20,7 +20,7 @@ Whether your child is 4 or 14, this guide will equip you with practical advice, 
 
 ---
 
-## **What This Guide Covers**
+## What This Guide Covers
 
 This guide is designed to help you have meaningful conversations about sex, bodies, and relationships with your child, tailored to their stage of development. Recognizing that children and teens grow at different paces, the guide is structured into specific age groups, ensuring that each discussion is age-appropriate and aligns with their understanding. As you move through each stage, you’ll find **three key conversations** for every age range, allowing you to gradually introduce important topics. These conversations are designed to build upon each other, helping to reinforce ideas and foster open communication as your child matures.
 
@@ -46,7 +46,7 @@ This guide is designed to help you have meaningful conversations about sex, bodi
 
 ---
 
-### 3. **Essential Topics Covered**
+### 3. Essential Topics Covered
 
 In addition to the age-specific guidance, we’ll cover key themes and topics throughout the guide, including:
 
@@ -70,7 +70,7 @@ In addition to the age-specific guidance, we’ll cover key themes and topics th
 
 ---
 
-### 4. **Ongoing Conversations: How and When to Talk**
+### 4. Ongoing Conversations: How and When to Talk
 
 These aren’t one-time conversations. Throughout the guide, we’ll emphasize the importance of **ongoing discussions**—revisiting these topics as your child grows and their understanding evolves. You’ll learn how to:
    - Keep the lines of communication open at every stage.
@@ -79,7 +79,7 @@ These aren’t one-time conversations. Throughout the guide, we’ll emphasize t
 
 ---
 
-## **Why This Guide is Important**
+## Why This Guide is Important
 
 The information your child receives about sex, relationships, and their body will shape their understanding of themselves and others for years to come. Having open, honest conversations early and often can help your child:
 - Develop a healthy sense of self-esteem and body image.
@@ -91,7 +91,7 @@ This guide will empower you as a parent to have these critical conversations, pr
 
 ---
 
-## **Start Your Journey**
+## Start Your Journey
 
 Whether you're here to get tips for a single conversation or to follow the full guide from early childhood through the teenage years, hopefully this guide can be a reference on this important journey. Start with the **[General Tips](general-tips.md)** or choose an age-specific guide below to get started!
 
