@@ -1,3 +1,7 @@
+---
+title: "Preteens: Ages 9-12"
+---
+
 ## **Preteens (Ages 9-12)**
 
 ### **Conversation 1: “Preparing for Puberty”**
