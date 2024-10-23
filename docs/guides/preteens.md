@@ -1,8 +1,3 @@
----
-hide:
-  - footer
----
-
 ## **Preteens (Ages 9-12)**
 
 ### **Conversation 1: “Preparing for Puberty”**
