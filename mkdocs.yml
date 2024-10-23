@@ -7,13 +7,12 @@ theme:
     - navigation.top
     - toc.integrate
 nav:
-  - Home: index.md
-  - General Tips: general-tips.md
-  - Guides:
-      - "Early Childhood: Ages 0-5": guides/early-childhood.md
-      - "Early School Age: Ages 6-8": guides/early-school-age.md
-      - "Preteens: Ages 9-12": guides/preteens.md
-      - "Teenagers: Ages 13-17": guides/teenagers.md
+  - index.md
+  - general-tips.md
+  - guides/early-childhood.md
+  - guides/early-school-age.md
+  - guides/preteens.md
+  - guides/teenagers.md
 extensions:
   - emoji
 

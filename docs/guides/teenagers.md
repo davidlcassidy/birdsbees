@@ -1,7 +1,3 @@
----
-title: Teenagers: Ages 13-17
----
-
 # **Teenagers (Ages 13-17)**
 
 ### **Conversation 1: “Navigating Relationships and Consent”**

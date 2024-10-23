@@ -1,7 +1,3 @@
----
-title: Early Childhood: Ages 5 & Under
----
-
 # **Early Childhood (Age 5 & Under)**
 
 ### **Conversation 1: “Your Amazing Body”**
