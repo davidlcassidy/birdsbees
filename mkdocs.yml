@@ -1,0 +1,11 @@
+site_name: 'The Birds, the Bees, and the Awkward Conversations'
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - General Tips: general_tips.md
+  - Early Childhood (Ages 0-5): early_childhood.md
+  - Early School Age (Ages 6-8): early_school_age.md
+  - Preteens (Ages 9-12): preteens.md
+  - Teenagers (Ages 13-17): teenagers.md
+theme:
+  name: material  # or another theme of your choice
