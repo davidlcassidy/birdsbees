@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 ## **Early Childhood (Age 5 & Under)**
 
 ### **Conversation 1: “Your Amazing Body”**

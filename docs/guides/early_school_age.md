@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 ## **Early School Age (Ages 6-8)**
 
 ### **Conversation 1: “Understanding Conception and Birth”**

@@ -1,3 +1,7 @@
+---
+hide:
+  - footer
+---
 
 ## **Preteens (Ages 9-12)**
 
