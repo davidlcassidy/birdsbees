@@ -2,8 +2,8 @@ site_name: "The Birds, the Bees, and the Awkward Conversations"
 theme:
   name: material
   icon:
-    logo: :children_crossing:
-    favicon: :children_crossing:
+    logo: ':children_crossing:'
+    favicon: ':children_crossing:'
   features:
     - navigation.top
     - navigation.sections
@@ -15,14 +15,12 @@ theme:
         - "Early School Age (Ages 6-8)": guides/early-school-age.md
         - "Preteens (Ages 9-12)": guides/preteens.md
         - "Teenagers (Ages 13-17)": guides/teenagers.md
+  extensions:
+    - emoji
 
 markdown_extensions:
   - admonition
   - codehilite
-    - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: True
 
