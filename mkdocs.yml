@@ -16,8 +16,6 @@ theme:
         - "Teenagers (Ages 13-17)": guides/teenagers.md
   extensions:
     - emoji
-  extra_css:
-  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
@@ -26,7 +24,4 @@ markdown_extensions:
       permalink: True
 
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/davidlcassidy/birdsbees
   generator: false
