@@ -4,6 +4,7 @@ theme:
   features:
     - navigation.top
     - navigation.sections
+    - navigation.tabs
   nav:
     - Home: index.md
     - General Tips: general-tips.md
