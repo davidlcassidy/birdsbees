@@ -25,22 +25,22 @@ Whether your child is 4 or 14, this guide will equip you with practical advice, 
 
 This guide is designed to help you have meaningful conversations about sex, bodies, and relationships with your child, tailored to their stage of development. Recognizing that children and teens grow at different paces, the guide is structured into specific age groups, ensuring that each discussion is age-appropriate and aligns with their understanding. As you move through each stage, you’ll find **three key conversations** for every age range, allowing you to gradually introduce important topics. These conversations are designed to build upon each other, helping to reinforce ideas and foster open communication as your child matures.
 
-- **Early Childhood (Ages 0-5)**
+**Early Childhood (Ages 0-5)**
 - Conversation 1: “Your Amazing Body”
 - Conversation 2: “Your Body, Your Space”
 - Conversation 3: “Respect and Affection”
 
-- **Early School Age (Ages 6-8)**
+**Early School Age (Ages 6-8)**
 - Conversation 1: “Understanding Conception and Birth”
 - Conversation 2: “Trusting Yourself and Understanding Secrets”
 - Conversation 3: “Gender, Identity, and Healthy Relationships”
 
-- **Preteens (Ages 9-12)**
+**Preteens (Ages 9-12)**
 - Conversation 1: “Preparing for Puberty”
 - Conversation 2: “Sexual Health and Safety”
 - Conversation 3: “Navigating Relationships and Consent - Part 1”
 
-- **Teenagers (Ages 13-17)**
+**Teenagers (Ages 13-17)**
 - Conversation 1: “Media Literacy and Understanding Porn”
 - Conversation 2: “Making Informed Decisions”
 - Conversation 3: “Navigating Relationships and Consent - Part 2”
@@ -51,37 +51,26 @@ This guide is designed to help you have meaningful conversations about sex, bodi
 
 In addition to the age-specific guidance, we’ll cover key themes and topics throughout the guide, including:
 
-- **Body Autonomy and Respect**
+**Body Autonomy and Respect**
     - Teaching children to understand that their body belongs to them and how to respect the boundaries of others.
 
-- **Consent**
+**Consent**
     - Understanding what consent means and why it’s essential, from asking for permission to understanding the word “no” in various contexts.
 
-- **Puberty and Physical Changes**
+**Puberty and Physical Changes**
     - Preparing children for the emotional and physical changes of puberty, including menstruation, body hair, and voice changes.
 
-- **Relationships and Respect**
+**Relationships and Respect**
     - Exploring different types of relationships (friendships, romantic relationships) and how to maintain respectful and healthy connections.
 
-- **Sexual Health and Safety**
+**Sexual Health and Safety**
     - Educating teens about safe sex, contraceptives, and how to make informed choices about their sexual health.
 
-- **Media and Peer Influence**
+**Media and Peer Influence**
     - Helping kids and teens navigate the messages they receive about sex, relationships, and body image from media, porn, and their peers.
 	
-`Lorem ipsum dolor sit amet`
-
-:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
-    tellus non sem sollicitudin, quis rutrum leo facilisis.
-
-`Cras arcu libero`
-
-:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
-    ut eros sed sapien ullamcorper consequat. Nunc ligula ante.
-
-    Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    Nam vulputate tincidunt fringilla.
-    Nullam dignissim ultrices urna non auctor.
+**Media and Peer Influence**
+`Helping kids and teens navigate the messages they receive about sex, relationships, and body image from media, porn, and their peers.`
 
 ---
 
