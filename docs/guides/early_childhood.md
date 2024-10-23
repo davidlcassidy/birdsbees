@@ -1,4 +1,4 @@
-# **Early Childhood (Age 5 & Under)**
+# Early Childhood (Age 5 & Under)
 
 ### **Conversation 1: “Your Amazing Body”**
 - **Basic Anatomy**: Use the correct names for body parts, including penis, vulva, nipples, and butt.

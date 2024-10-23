@@ -1,4 +1,4 @@
-# **Preteens (Ages 9-12)**
+# Preteens (Ages 9-12)
 
 ### **Conversation 1: “Preparing for Puberty”**
 - **Puberty**: Discuss the physical and emotional changes they can expect as they go through puberty.
