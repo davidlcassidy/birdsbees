@@ -26,28 +26,28 @@ Whether your child is 4 or 14, this guide will equip you with practical advice, 
 This guide is designed to help you have meaningful conversations about sex, bodies, and relationships with your child, tailored to their stage of development. Recognizing that children and teens grow at different paces, the guide is structured into specific age groups, ensuring that each discussion is age-appropriate and aligns with their understanding. As you move through each stage, you’ll find **three key conversations** for every age range, allowing you to gradually introduce important topics. These conversations are designed to build upon each other, helping to reinforce ideas and foster open communication as your child matures.
 
 - **Early Childhood (Ages 0-5)**
-    - Conversation 1: “Your Amazing Body”
-    - Conversation 2: “Your Body, Your Space”
-    - Conversation 3: “Respect and Affection”
+- Conversation 1: “Your Amazing Body”
+- Conversation 2: “Your Body, Your Space”
+- Conversation 3: “Respect and Affection”
 
 - **Early School Age (Ages 6-8)**
-    - Conversation 1: “Understanding Conception and Birth”
-    - Conversation 2: “Trusting Yourself and Understanding Secrets”
-    - Conversation 3: “Gender, Identity, and Healthy Relationships”
+- Conversation 1: “Understanding Conception and Birth”
+- Conversation 2: “Trusting Yourself and Understanding Secrets”
+- Conversation 3: “Gender, Identity, and Healthy Relationships”
 
 - **Preteens (Ages 9-12)**
-    - Conversation 1: “Preparing for Puberty”
-    - Conversation 2: “Sexual Health and Safety”
-    - Conversation 3: “Navigating Relationships and Consent - Part 1”
+- Conversation 1: “Preparing for Puberty”
+- Conversation 2: “Sexual Health and Safety”
+- Conversation 3: “Navigating Relationships and Consent - Part 1”
 
 - **Teenagers (Ages 13-17)**
-    - Conversation 1: “Media Literacy and Understanding Porn”
-    - Conversation 2: “Making Informed Decisions”
-    - Conversation 3: “Navigating Relationships and Consent - Part 2”
+- Conversation 1: “Media Literacy and Understanding Porn”
+- Conversation 2: “Making Informed Decisions”
+- Conversation 3: “Navigating Relationships and Consent - Part 2”
 
 ---
 
-### 3. Essential Topics Covered
+### Essential Topics Covered
 
 In addition to the age-specific guidance, we’ll cover key themes and topics throughout the guide, including:
 
@@ -68,10 +68,24 @@ In addition to the age-specific guidance, we’ll cover key themes and topics th
 
 - **Media and Peer Influence**
     - Helping kids and teens navigate the messages they receive about sex, relationships, and body image from media, porn, and their peers.
+	
+`Lorem ipsum dolor sit amet`
+
+:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
+    tellus non sem sollicitudin, quis rutrum leo facilisis.
+
+`Cras arcu libero`
+
+:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
+    ut eros sed sapien ullamcorper consequat. Nunc ligula ante.
+
+    Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
+    Nam vulputate tincidunt fringilla.
+    Nullam dignissim ultrices urna non auctor.
 
 ---
 
-### 4. Ongoing Conversations: How and When to Talk
+### Ongoing Conversations: How and When to Talk
 
 These aren’t one-time conversations. Throughout the guide, we’ll emphasize the importance of **ongoing discussions**—revisiting these topics as your child grows and their understanding evolves. You’ll learn how to:
    - Keep the lines of communication open at every stage.
