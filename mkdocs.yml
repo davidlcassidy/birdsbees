@@ -1,8 +1,8 @@
-site_name: "The Birds, the Bees, and the Awkward Conversations: A Free Parent's Survival Guide to Navigating Sex Talks"
+site_name: "The Birds, the Bees, and the Awkward Conversations"
 theme:
   name: material
   features:
-    - navigation.tabs
+    - navigation.top
   nav:
     - Home: index.md
     - General Tips: general-tips.md
