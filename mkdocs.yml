@@ -1,5 +1,7 @@
 site_name: "The Birds, the Bees, and the Awkward Conversations"
 
+site_url: https://davidlcassidy.github.io/birdsbees/
+
 theme:
   name: material
   features:
