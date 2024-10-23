@@ -26,7 +26,4 @@ markdown_extensions:
       permalink: True
 
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/davidlcassidy/birdsbees
   generator: false
